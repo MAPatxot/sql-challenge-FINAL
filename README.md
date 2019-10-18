@@ -3,6 +3,7 @@
 ## [PART 1] - Solution - QuickDBD
 
 - Includes QuickDBD image (.png) and .sql file
+> ![header image](https://raw.githubusercontent.com/MAPatxot/sql-challenge-FINAL/master/%5B1%5D%20-%20Solution%20-%20QuickDBD/QuickDBD-Pewlett_Hackard_Base_Diagram.png)
 
 ## [PART 2] - Solution - Data Analysis
 
