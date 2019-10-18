@@ -1,0 +1,1 @@
+sql_private_stuff = 'postgresql://postgres:postgres@localhost:5432/sql_challenge'
